@@ -2,7 +2,6 @@ import os
 import streamlit as st
 import hashlib
 import sqlite3
-os.system("pip install google-generativeai")
 import google.generativeai as genai
 import pandas as pd
 import matplotlib.pyplot as plt
